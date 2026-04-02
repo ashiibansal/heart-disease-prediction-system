@@ -205,15 +205,6 @@ Max Heart Rate
 Numeric slider input
 
 ---
-
-## Screenshots
-
-### Dashboard
-![Dashboard](preview1.png)
-![Dashboard](preview2.png)
-![Dashboard](preview3.png)
-
----
 ⚠️ Disclaimer
 
 This application is built for educational and screening purposes only.
